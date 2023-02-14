@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'The crAzy lizard jumpt over the laZy dog' | tr 'Ac' 'Ze'
+echo "The crAzy lizard jumpt over the laZy dog" | tr 'Ac' 'Ze'
