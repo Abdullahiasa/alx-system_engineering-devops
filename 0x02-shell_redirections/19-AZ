@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input" | tr 'ac' 'ze'
+echo "The place is beautiful" | tr 'ac' 'ze'
