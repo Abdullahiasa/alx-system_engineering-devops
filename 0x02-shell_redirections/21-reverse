@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ALX SE program is Amazing" | rev
+echo "Reverse" | rev
