@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The Crazy little cock ate the grains, i Call him cock" | tr -d "cC"
+tr -d 'c' | tr -d "C"
